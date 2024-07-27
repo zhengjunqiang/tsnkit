@@ -4,7 +4,6 @@ build/
 dist/
 **/*.ipynb_checkpoints/
 *.py[cod]
-*.csv
 *.pyc
 *.err
 *.log
